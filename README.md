@@ -6,7 +6,7 @@ A Discord Bot to track user activity on a server.
 ## What can the collected data be used for?
 This bot can be used for many data-related tasks such as:
 <ul>
-  <li>At which time do connect people most frequently</li>  
+  <li>At which time do people connect most frequently</li>  
   <li>How much time do they spend on the server</li>
   <li>Are the connected people active while connected to a voice channel</li>
   <li>With whom are they talking the most</li>  
