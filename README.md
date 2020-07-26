@@ -13,6 +13,15 @@ This bot can be used for many data-related tasks such as:
 </ul>
 Those results may help big servers to schedule their mods to be more active at a certain time to assist members in need.
 
+## Dependencies
+| Package | Version |
+| ------------- | ------------- |
+| discord.py  | 1.3.3 |
+| plotly  | 4.7.1 |
+| pandas  | 1.0.3 |
 
-## Sunburst Chart showing online to active ratio by user:<br>
+
+
+## Interactive Sunburst Chart showing online to active ratio by user:<br>
 <img src="media/discordInsights.png"  alt="Online to offline Ratio SunburstChart"/><br>
+<a href="media/exampleData.html">Download shown Sample-File</a>
